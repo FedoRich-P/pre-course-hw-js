@@ -6,7 +6,5 @@ const searchLetter = (word, letter) => {
 
 console.log(searchLetter(str, 'y'))
 
-// str.includes('y') ? console.log('нашел') : console.log('заблудился')
-
 
 

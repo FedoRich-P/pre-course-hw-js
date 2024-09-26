@@ -1,3 +1,6 @@
 body {
     background-color: yellow;
 }
+
+
+/* str.includes('y') ? console.log('нашел') : console.log('заблудился')*/
