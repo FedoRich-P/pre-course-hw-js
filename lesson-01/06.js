@@ -1,8 +1,5 @@
-let str = "zzzyzzz";
+let str = "zzzyzzz".includes('y') ? console.log('нашел') : console.log('заблудился');
 
-const newStr = str.includes('y') ? 'нашел':'заблудился';
-
-console.log(newStr)
 
 
 
