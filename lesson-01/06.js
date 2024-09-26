@@ -1,6 +1,6 @@
 let str = "zzzzyzz";
 
-str = str.includes('y') ? 'нашел' : 'заблудился'
+str.includes('y') ? console.log('нашел') : console.log('заблудился')
 
-console.log(str)
+
 
