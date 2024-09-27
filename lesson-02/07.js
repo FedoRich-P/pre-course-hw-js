@@ -12,7 +12,6 @@ let passportMarried2 = {
     married: true,
     address: {...passportMarried.address}
 }
-passportMarried2.married = false
 
 console.log(passportMarried);
 console.log(passportMarried2);
