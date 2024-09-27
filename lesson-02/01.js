@@ -1,7 +1,4 @@
-// code
-// let number = 1;
-//
-// console.log(number++)
-// console.log(++number)
-// console.log(number--)
-// console.log(--number)
+const doArrow = (value) => {
+    console.log(value);
+}
+doArrow('Передай 5')
